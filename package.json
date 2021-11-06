@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/j23click/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
-  }
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {}
 }
